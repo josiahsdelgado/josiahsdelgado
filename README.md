@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @josiahsdelgado
+- 👀 I’m interested in ... Software Engineering
+- 🌱 I’m currently learning ... Python 3
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ... Pigeon Courier
